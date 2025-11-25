@@ -42,3 +42,15 @@ for i in car:
 # Actualizacion 2 
 
 Esto es probando el git branch
+
+
+
+## Actualizacion 3
+
+Cree una actualizacion donde 
+
+- Cree un branch de Andres-v1
+- Lo subire como pull request
+- Lo mergeare con master
+
+- Lo borrare
