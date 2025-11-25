@@ -11,3 +11,29 @@ Una actualizacion desde git 2
 
 
 Cambios desde dev01 el nuevo noobie
+
+** This text is bold **
+
+* This text is italic *
+
+# This is a heading
+
+## This is a sub-heading
+
+- This is a bullet point
+- Hola putos
+
+1. This is a numbered list item
+
+> This is a quote
+
+`This is inline code`
+
+```This is a code block
+dddddd
+# Hola
+for i in car:
+    d
+
+
+```
