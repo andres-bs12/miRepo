@@ -77,3 +77,7 @@ Actualizacion desde Visual studio
 ## Actualizacion 7 
 
 Desde visual studio code panel 
+
+## Actualizacion 7,2
+
+Desde visual studio code panel version 2
