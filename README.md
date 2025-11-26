@@ -90,3 +90,7 @@ Desde vsc con panel version 3
 
 ## Actualizacion 8 
 Ultima prueba desde panel vsc
+
+
+## Actualizacion final 
+Ultima version desde git hub
