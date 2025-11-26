@@ -85,3 +85,8 @@ Desde visual studio code panel version 2
 ## Actualizacion 7,3
 
 Desde vsc con panel version 3 
+
+
+
+## Actualizacion 8 
+Ultima prueba desde panel vsc
