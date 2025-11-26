@@ -81,3 +81,7 @@ Desde visual studio code panel
 ## Actualizacion 7,2
 
 Desde visual studio code panel version 2
+
+## Actualizacion 7,3
+
+Desde vsc con panel version 3 
